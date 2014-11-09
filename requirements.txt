@@ -1,0 +1,3 @@
+ryu==3.13
+PyYAML==3.11
+zope.event==4.0.3

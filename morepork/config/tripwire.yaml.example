@@ -1,0 +1,6 @@
+port:
+    1:
+        1:
+            rx_bytes:
+                threshold: 600000000
+                derivative: 1
